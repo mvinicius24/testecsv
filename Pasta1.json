@@ -1,6 +1,6 @@
 [
   {
-    "﻿NÃºmero do Alimento": "2",
+    "﻿NÃºmero do Alimento": "1",
     "Categoria do alimento": "Queijo coalho",
     "DescriÃ§Ã£o dos alimentos": "Leite e derivados",
     "Umidade (%)": "42,5",
@@ -30,4 +30,31 @@
     "Niacina (mg)": null,
     "Vitamina C (mg)": null
   }
+  {
+    "id": 2,
+    "description": "Queijo, coalho, light",
+    "category": "Leite e derivados",
+    "humidity_percents": 52.0,
+    "energy_kcal": 255.0,
+    "energy_kj": 1067.0,
+    "protein_g": 26.0,
+    "lipid_g": 15.5,
+    "cholesterol_mg": 45.0,
+    "carbohydrate_g": 2.8,
+    "fiber_g": 0.0,
+    "ashes_g": 3.7,
+    "calcium_mg": 700.0,
+    "magnesium_mg": 28.0,
+    "manganese_mg": "Tr",
+    "phosphorus_mg": 480.0,
+    "iron_mg": 0.2,
+    "sodium_mg": 580.0,
+    "potassium_mg": 80.0,
+    "copper_mg": 0.02,
+    "zinc_mg": 3.5,
+    "retinol_mcg": 120.0,
+    "saturated_g": 9.8,
+    "monounsaturated_g": 4.2,
+    "polyunsaturated_g": 0.5
+}
 ]
